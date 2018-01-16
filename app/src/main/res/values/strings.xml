@@ -1,0 +1,5 @@
+<resources>
+    <string name="base_api">http://192.168.0.101/public/index.php/index/index/api</string>
+    <string name="app_name">Lottery</string>
+    <string name="login_info">如进入网站有收到有关本站关闭或转新网，请立即联系本站24小时在线客服。</string>
+</resources>
